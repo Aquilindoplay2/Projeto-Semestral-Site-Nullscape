@@ -267,7 +267,7 @@ main {
     width: 90%;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     background: url(../IMG/fundo-azul-escuro-info-simples.webp) ;
     background-color: rgba(0,0,0,0.5) ;
     background-blend-mode: multiply;
